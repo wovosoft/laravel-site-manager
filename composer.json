@@ -3,6 +3,9 @@
     "require": {
         "laravel/prompts": "^0.2.1"
     },
+    "bin": [
+        "src/Bin/manage_laravel_site"
+    ],
     "autoload": {
         "psr-4": {
             "Wovosoft\\LaravelSiteManager\\": "src/"
