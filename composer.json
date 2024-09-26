@@ -1,0 +1,17 @@
+{
+    "name": "wovosoft/laravel-site-manager",
+    "require": {
+        "laravel/prompts": "^0.2.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Wovosoft\\LaravelSiteManager\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Narayan Adhikary",
+            "email": "wovosoft@gmail.com"
+        }
+    ]
+}
